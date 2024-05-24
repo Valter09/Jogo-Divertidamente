@@ -1,5 +1,5 @@
 # Adivinha-Cores
-# [Live preview](https://larissa022.github.io/Jogo-Divertidamente/index.html)
+# [Live preview](https://Valter09.github.io/Jogo-Divertidamente/index.html)
 
 ![Adivinha-cores](assets/images/adivinha-cores.png)
 
