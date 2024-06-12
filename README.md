@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido para uma feira de cursos da escola, e depois fui a
 
 ## Como Jogar?
 
-![Adivinha-cores](assets/images/fase.png)
+![Adivinha-cores](assets/images/alegria.png)
 
 Para jogar basta clicar em um dos 4 botões e se você acertar irá para outra página, mas se você errar irá voltar do início. 
 
